@@ -33,12 +33,5 @@
 	<real>1324844494.6654279</real>
 	<key>version</key>
 	<string>1.0</string>
-	<key>com.robofontmechanic.Mechanic</key>
-	<dict>
-		<key>repository</key>
-		<string>typemytype/send2twitterRoboFontExtension</string>
-		<key>summary</key>
-		<string>Send glyph view and space center images to twitter.</string>
-	</dict
 </dict>
 </plist>
